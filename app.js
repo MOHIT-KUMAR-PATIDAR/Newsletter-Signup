@@ -71,11 +71,3 @@ app.listen(process.env.PORT || 3000,function(){
 });
 
 
-// f94eccd30817fc5aa3a416f8c92c0b28-us1
-
-// 696ea570e3
-
-// auth:"mohit1:43ace290ba0e090374e65d06cd84cf54-us1"
-
-
-// auth:"angela1:f94eccd30817fc5aa3a416f8c92c0b28-us1"
