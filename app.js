@@ -35,11 +35,11 @@ var data={
 
 const jsonData= JSON.stringify(data);
 
-const url="https://us1.api.mailchimp.com/3.0/lists/696ea570e3";
+const url="https://us1.api.mailchimp.com/3.0/lists/TypeYourOwnListId";
 
 const options={
     method:"POST",
-    auth:"mohit1:43ace290ba0e090374e65d06cd84cf54-us1"
+    auth:"mohit1:TypeYourOwnApiKey"
 }
 
 if(response.statusCode === 200){
